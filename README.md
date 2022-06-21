@@ -1,5 +1,5 @@
 # Desafio-01 - Iniciante - Corrigindo bugs (01)
-##Desafio 01 da aula de Introdução ao HTML e CSS do programa explorer da Rocketseat.
+## Desafio 01 da aula de Introdução ao HTML e CSS do programa explorer da Rocketseat.
 Sobre o desafio:
 Nesse desafio foi dado um código que estava todo desalinhado como mostra a imagem abaixo.</p>
 O objetivo foi organizar e deixar o layout igual ao feito em aula.</p>
