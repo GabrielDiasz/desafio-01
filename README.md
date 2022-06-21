@@ -10,4 +10,5 @@ Nesse desafio foi dado um código que estava todo desalinhado como mostra a imag
 
 O objetivo foi organizar e deixar o layout igual ao feito em aula.
 <p>Segue o link abaixo com o desafio concluido! 🚀💜</p>
-https://gabrieldiasz.github.io/desafio-01/
+
+<a href="https://gabrieldiasz.github.io/desafio-01/" target="_blank">Desafio concluído!</a>
